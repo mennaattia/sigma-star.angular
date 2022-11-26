@@ -1,0 +1,78 @@
+.section-bg {
+    width: 100%;
+    height: auto;
+    background-color: #f9f9fa;
+    padding: 1%;
+    margin-top: 2%;
+    }
+.section-title {
+    text-align: center;
+    padding: 30px 0;
+    position: relative;
+  }
+  .section-title span {
+    position: absolute;
+    top: 30px;
+    color: #f0f1f3;
+    left: 0;
+    right: 0;
+    z-index: 1;
+    font-weight: 700;
+    font-size: 52px;
+    text-transform: uppercase;
+    line-height: 0;
+  }
+.section-title h2 {
+    font-size: 32px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    padding-bottom: 0;
+    color: #5f687b;
+    position: relative;
+    z-index: 2;
+  }
+  .section-title p {
+      margin-bottom: 0;
+      position: relative;
+      z-index: 2;
+  }
+.contactInfo {
+    justify-content: space-around;
+  }
+  .contactInfo .address, .contactInfo .email, .contactInfo .phone {
+    margin-bottom: 7%;
+  }
+  .contactInfo .div1, .contactInfo .div2 {
+    background-color: #f9f9fa;
+    padding: 30px;
+    border-top: 3px solid #01b8dc;
+    border-bottom: 3px solid #01b8dc;
+  }
+  .contactInfo .div1 i {
+    font-size: 20px;
+    color: #01b8dc;
+    float: left;
+    width: 44px;
+    height: 44px;
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50px;
+    transition: all .3s ease-in-out;
+  }
+  .contactInfo .div1 i:hover {
+    color: #fff;
+    background-color: #01b8dc;
+  }
+  .contactInfo .div1 h4 {
+    color: #5f687b;
+  }
+  .contactInfo .div p {
+    font-size: 14px;
+    color: #949cac;
+  }
+  .contactInfo .div1, .contactInfo .div2 {
+    margin-bottom: 2%;
+  }

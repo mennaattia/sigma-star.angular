@@ -1,0 +1,30 @@
+.waw {
+    margin-top: 5%;
+    }
+  .divintro {
+    height: auto;
+    background-color: #f9f9fa;
+    margin-bottom: 3%;
+    }
+  .divintro section {
+    height: auto;
+    padding: 1%;
+    padding-bottom: 3%;
+    }
+  .divintro section i {
+    color: #01b8dc;
+    padding-top: 1%;
+    }
+  .divintro section p {
+    font-size: 13px;
+    }
+  .divintro section h6, .divintro section p {
+    color: #858ea1;
+    margin-top: 2%;
+    }
+  .divintro section h6:hover {
+    color: #01b8dc;
+    }
+  .divintro2 {
+    margin-top: 1% !important;
+    }
